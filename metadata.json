@@ -1,0 +1,6 @@
+{
+  "name": "CVForge - Pro Resume Builder",
+  "description": "Professional online resume builder with interactive live preview, customizable templates, and Paytm UPI subscriptions (₹20/Day, ₹100/Week, ₹350/Month, ₹1000/Year) plus ₹5 single downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
